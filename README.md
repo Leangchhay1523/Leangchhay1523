@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Song Kimleangchhay! 
-✨ Computer Science | Data Science | Sophomore 
+✨ Computer Science | Data Science | Sophomore <br>
 💡 Passioante about AI, ML, Data Science, Web Development
 
 --- 
 ## 📌 About Me
 - 🎓 Computer Science Student (Data Science Specialization) | Sophomore
 - 💡 Interests: Machine Learning, Deep Learning, AI Research, Web Development, Data Science, Analyzing
-- 
+
 
 <!--
 **Leangchhay1523/Leangchhay1523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
