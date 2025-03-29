@@ -7,6 +7,10 @@
 - 🎓 Computer Science Student (Data Science Specialization) | Sophomore
 - 💡 Interests: Machine Learning, Deep Learning, AI Research, Web Development, Data Science, Analyzing
 
+---
+## 📈 Stats
+[![Leangchhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leangchhay1523)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Leangchhay1523/Leangchhay1523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
