@@ -11,6 +11,9 @@
 ## 📈 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leangchhay1523&show_icons=true&theme=cobalt2 )
 
+--- 
+## 👨‍💻 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leangchhay1523&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Leangchhay1523/Leangchhay1523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
