@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Song Kimleangchhay! 
+# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=600&pause=1000&color=0577DA&background=19354900&vCenter=true&width=435&lines=Hey+Welcome%2C++I'm+Chhay!)](https://git.io/typing-svg)
 ✨ Computer Science | Data Science | Sophomore <br>
 💡 Passioante about AI, ML, Data Science, Web Development
 
