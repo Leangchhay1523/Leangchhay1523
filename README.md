@@ -8,7 +8,7 @@
 ## 📚 About Me
 
 - 🎓 I'm a sophomore majoring in **Computer Science** (Data Science track)
-- 🌱 Currently learning advanced **ML/DL** concepts and working on portfolio projects
+- 🌱 Currently working on portfolio projects
 - 💬 Always excited to connect and share knowledge!
 
 ---
