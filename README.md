@@ -7,23 +7,8 @@
 
 ## 📚 About Me
 
-- 🎓 I'm a sophomore majoring in **Computer Science** (Data Science track)
-- 🌱 Currently working on portfolio projects
+- 🎓 I'm a junior majoring in **Computer Science** (Data Science track)
 - 💬 Always excited to connect and share knowledge!
-
----
-
-## 🎯 2025 Goals
-
-- ✅ Published my personal portfolio website to showcase my projects and skills **(Achieved)**
-
-- 📚 Master core foundations in AI & Data Science — deepening my knowledge in Mathematics, Statistics, and Probability **(In Progress)**
-
-- 🤖 Learn and implement key Machine Learning models (Regression, Trees, Clustering, Neural Networks) **(In Progress)**
-
-- 🏗️ Build 2-3 impactful real-world projects that apply AI/Data Science to solve practical problems **(In Progress)**
-
-- 🧩 Grind problem-solving skills through platforms like LeetCode, HackerRank, and Kaggle competitions **(In Progress)**
 
 ---
 
