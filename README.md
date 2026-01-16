@@ -93,7 +93,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div style="display: flex; flex-direction: columns; gap: 40px">
+<div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/leangchhay1523?theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leangchhay1523&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
