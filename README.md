@@ -2,9 +2,7 @@
 
 **B.Sc. in Computer Science (Data Science) • Year 3**
 
-<sub>
-Interested in Artificial Intelligence (AI), Data Science (DS), Machine Learning (ML), Web Development, Agentic Systems
-</sub>
+Interested in **Artificial Intelligence (AI)**, **Data Science (DS)**, **Machine Learning (ML)**, **Web Development**, **Agentic Systems**
 
 ---
 
