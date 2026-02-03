@@ -49,20 +49,23 @@ Interested in **Artificial Intelligence (AI)**, **Data Science (DS)**, **Machine
 ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/leangchhay1523?theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=leangchhay1523&theme=radical&hide_border=true)
 
+-- 
+## 📅 Daily Activties
+- 🧩 Resumely (Resume Builder Product) 
+  - Developing UI components, shipping new features, fixing bugs.
+- 🚀 Startup Team – Business Idea Validation Platform
+  - Building frontend features, handling deployment, integrating backend APIs, and implementing user analytics & tracking.
+- 🎓 Capstone Project – Khmer Text Annotation Tool
+  - Working on authentication, cloud storage integration.
+- 📊 Personal Data Analytics Practice
+  - Maintaining a daily data analyst repo: Excel analysis, SQL queries, Python (pandas), and visualization exercises.
+
 ---
 
 ## 🔥 What I'm Working On Right Now
 
-- Completing **IBM Data Analyst Professional Certificate** on **Coursera**
-  - Focus: Excel, SQL, data wrangling, visualization, analytical thinking
+- Completing online courses on coursera
+  - IBM Professional Data Analyst Professional
+  - IBM Machine Learning Professional 
 
-- Building **Data Analytics projects (beginner → advanced)**  
-  - Excel → data cleaning & exploration  
-  - SQL → querying & transformations  
-  - Power BI → dashboards & insights  
-  - ML models → prediction & analysis
-
-- Building **Agentic RAG applications**  
-  - RAG pipelines using **Grok collections & Grok models**  
-  - Web data ingestion via **Firecrawl**  
-  - Autonomous retrieval, reasoning, and answer generation
+- Data Analytics Project practice (Excel, Power BI, SQL, Python, Visualization, etc.)
