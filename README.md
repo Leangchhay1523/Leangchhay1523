@@ -49,7 +49,8 @@ Interested in **Artificial Intelligence (AI)**, **Data Science (DS)**, **Machine
 ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/leangchhay1523?theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=leangchhay1523&theme=radical&hide_border=true)
 
--- 
+---
+
 ## 📅 Daily Activties
 - 🧩 Resumely (Resume Builder Product) 
   - Developing UI components, shipping new features, fixing bugs.
