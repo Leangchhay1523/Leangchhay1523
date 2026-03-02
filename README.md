@@ -33,6 +33,4 @@ AI | Data Science | Machine Learning | Web Development | Agentic Systems
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/leangchhay1523?theme=dark)  
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=leangchhay1523&theme=radical&hide_border=true)  
