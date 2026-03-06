@@ -3,13 +3,14 @@
 **B.Sc. Computer Science (Data Science) • Year 3**  
 AI | Data Science | Machine Learning | Web Development | Agentic Systems  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leangchhay1523/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimleangchhay.song.321@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://leangchhayportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leangchhay1523/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimleangchhay.song.321@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kimleangchhay.me)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Tools:** Python | C | C++ | SQL | JavaScript | TypeScript | HTML | CSS  
+**Languages & Tools:** Python | JavaScript | HTML | CSS  
+**Database**: SQL | MySQL | PostgreSQL | MongoDB
 **Frontend:** React | Tailwind CSS  
 **Backend:** Node.js | Express | Sequelize  
 **Other Tools:** Git | GitHub | VSCode | Postman | Figma  
@@ -18,17 +19,10 @@ AI | Data Science | Machine Learning | Web Development | Agentic Systems
 
 ## 📅 Daily Activities
 
-- 🧩 [**Resumely**](https://www.resumely.app) – Developing UI components, shipping new features, fixing bugs  
-- 🚀 [**Startup Team Platform (VADATA)**](https://www.vadata.com) – Building frontend features, integrating backend APIs, implementing user analytics  
-- 🎓 **Khmer Text Annotation Tool (Capstone)** – Working on authentication, cloud storage integration  
-- 📊 **Personal Analytics Practice** – Maintaining daily data analysis: Excel, SQL, Python, visualization
-
----
-
-## 🔥 Currently Learning & Working On
-
-- IBM Data Analyst & Machine Learning Professional courses (Coursera)  
-- Data analytics & visualization projects (Excel, Power BI, SQL, Python)  
+- 🧩 [**Resumely**](https://www.resumely.app) – Developing UI components, shipping new features, fixing bugs  .
+- 🚀 [**Startup Team Platform (VADATA)**](https://www.vadata.com) – Building frontend features, integrating backend APIs, implementing user analytics  .
+- 🎓 **Khmer Text Annotation Tool (Capstone)** – Working on authentication, cloud storage integration.
+- 📊 **Personal Analytics Practice** – Maintaining daily data analysis: Excel, SQL, Python, visualization.
 
 ---
 
