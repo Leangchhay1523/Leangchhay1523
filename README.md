@@ -9,7 +9,7 @@ AI | Data Science | Machine Learning | Web Development | Agentic Systems
 
 ## 🛠 Tech Stack
 
-- **Languages & Tools:** Python | JavaScript | HTML | CSS  
+- **Languages & Tools:** Python | JavaScript
 - **Database:** SQL | MySQL | PostgreSQL | MongoDB
 - **Frontend:** React | Tailwind CSS  
 - **Backend:** Node.js | Express | Sequelize  
