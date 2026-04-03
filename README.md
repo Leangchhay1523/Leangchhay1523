@@ -20,7 +20,7 @@
 
 - 🧩 [**Resumely**](https://www.resumely.app) – Update AI prompt template for new resume template, developing UI components, shipping new features, fixing bugs.
 - 🚀 [**Startup Team Platform (VADATA)**](https://www.vadata.com) – Building frontend features, integrating backend APIs, implementing user analytics.
-- 🎓 **Khmer Text Annotation Tool (Capstone)** – Working on authentication, cloud storage integration.
+- 🎓 **Khmer Text Annotation Tool (Capstone)** – Working on authentication, cloud storage integration, model training.
 
 ---
 
