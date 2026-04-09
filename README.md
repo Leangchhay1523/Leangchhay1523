@@ -1,4 +1,6 @@
-# Hi! I'm Song Kimleangchhay 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Song+Kimleangchhay+👋&size=35&width=1000&color=000000">
+</p>
 
 **B.Sc. Computer Science (Data Science) • Year 3** AI | Data Science | Machine Learning | Web Development | Agentic Systems  
 
