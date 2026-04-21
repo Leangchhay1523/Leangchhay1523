@@ -18,11 +18,16 @@
 
 ---
 
-## 📅 Daily Activities
+## 📅 Activities
 
-- 🧩 [**Resumely**](https://www.resumely.app) – Update AI prompt template for new resume template, developing UI components, shipping new features, fixing bugs.
-- 🚀 [**Startup Team Platform (VADATA)**](https://www.vadata.com) – Building frontend features, integrating backend APIs, implementing user analytics.
-- 🎓 **Khmer Text Annotation Tool (Capstone)** – Working on authentication, cloud storage integration, model training.
+### 🧭 Pass Work
+- 🚀 **Startup Team Platform (VADATA)** – Building frontend features, integrating backend APIs, implementing user analytics. [Website](https://www.vadata.app)
+- 🎓 **Khmer Text Annotation Tool (Capstone)** – Working on authentication, cloud storage integration, model training. [GitHub](https://github.com/PunleuTY/JomNam_Khmer_Text_Annotation)
+
+### ⚙️ Current Work
+- 🧩 **Resumely** – Update AI prompt template for new resume template, developing UI components, shipping new features, fixing bugs. [Website]((https://www.resumely.app))
+- 🧪 **Data Annotation Automation Engineer (Internship)** – Built a data pipeline for educational book metadata: GraphQL extraction (pagination), checkpointing & retries, JSONL storage, plus cleaning, deduplication, and analysis using Python/Pandas for dataset creation and labeling.
+
 
 ---
 
