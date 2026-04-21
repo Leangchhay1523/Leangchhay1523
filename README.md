@@ -25,9 +25,8 @@
 - 🎓 **Khmer Text Annotation Tool (Capstone)** – Working on authentication, cloud storage integration, model training. [[GitHub]](https://github.com/PunleuTY/JomNam_Khmer_Text_Annotation)
 
 ### ⚙️ Current Work
-- 🧩 **Resumely** – Update AI prompt template for new resume template, developing UI components, shipping new features, fixing bugs. [[Website]](https://www.resumely.app)
-- 🧪 **Data Annotation Automation Engineer (Internship)** – Built a data pipeline for educational book metadata: GraphQL extraction (pagination), checkpointing & retries, JSONL storage, plus cleaning, deduplication, and analysis using Python/Pandas for dataset creation and labeling.
-
+- 🧩 **Software Engineer/AI (Part-Time) at Resumely** – Update AI prompt template for new resume template, developing UI components, shipping new features, fixing bugs. [[Website]](https://www.resumely.app)
+- 🧪 **Data Annotation Automation Engineer (Internship) at IDRI** – Built a data pipeline for educational book metadata by extracting +5,000 public PDF books via GraphQL, designing structured storage, and implementing data cleaning, processing, deduplication, and analysis. Generated instruction-based datasets using Gemini, finalized dataset versions, and maintained regular documentation throughout the workflow.
 
 ---
 
