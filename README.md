@@ -20,13 +20,15 @@
 
 ## 📅 Activities
 
-### 🧭 Pass Work
-- 🚀 **Startup Team Platform (VADATA)** – Building frontend features, integrating backend APIs, implementing user analytics. [[Website]](https://www.vadata.app)
-- 🎓 **Khmer Text Annotation Tool (Capstone)** – Working on authentication, cloud storage integration, model training. [[GitHub]](https://github.com/PunleuTY/JomNam_Khmer_Text_Annotation)
+### 🧭 **Pass Work**
+- 🚀 **Startup Team Platform (VADATA)** – Developing **frontend features**, integrating **backend APIs**, optimizing **runtime performance** for **RAG workflows in n8n**, and working with **databases** to collect and analyze **user interaction data** such as **usage logs**, **generation timestamps**, **input/output pairs**, and **user feedback**. [[Website]](https://www.vadata.app)
 
-### ⚙️ Current Work
-- 🧩 **Resumely (Part-time Software Engineer / AI)** – Update AI prompt template for new resume template, developing UI components, shipping new features, fixing bugs. [[Website]](https://www.resumely.app)
-- 🧪 **IDRI (Internship – Data Annotation Automation Engineer)** – Built a data pipeline for educational book metadata by extracting +5,000 public PDF books via GraphQL, designing structured storage, and implementing data cleaning, processing, deduplication, and analysis. Generated instruction-based datasets using Gemini, finalized dataset versions, and maintained regular documentation throughout the workflow.
+- 🎓 **Khmer Text Annotation Tool (Capstone)** – Working on **authentication**, **cloud storage integration**, and **model training**. [[GitHub]](https://github.com/PunleuTY/JomNam_Khmer_Text_Annotation)
+
+### ⚙️ **Current Work**
+- 🧩 **Resumely (Part-time Software Engineer / AI)** – Updating **AI prompt templates** for new **resume templates**, developing **UI components**, shipping **new features**, and fixing **bugs**. [[Website]](https://www.resumely.app)
+
+- 🧪 **IDRI (Internship – Data Annotation Automation Engineer)** – Built a **data pipeline** for **educational book metadata** by extracting **+5,000 public PDF books** via **GraphQL**, designing **structured storage**, and implementing **data cleaning**, **processing**, **deduplication**, and **analysis**. Generated **instruction-based datasets** using **Gemini**, finalized **dataset versions**, and maintained **documentation** throughout the workflow.
 
 ---
 
