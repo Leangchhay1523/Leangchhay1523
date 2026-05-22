@@ -36,7 +36,5 @@
 
 ![GitHub Activity](https://ghchart.rshah.org/leangchhay1523)
 
---- 
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=leangchhay1523&theme=radical&hide_border=true)
+<!-- ## 🔥 GitHub Streak -->
+<!-- ## ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=leangchhay1523&theme=radical&hide_border=true) -->
