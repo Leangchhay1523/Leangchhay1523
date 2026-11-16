@@ -132,11 +132,13 @@ React + Vite + Tailwind · Go (Gin) · MongoDB · FastAPI · custom-trained **YO
 
 Authentication · Cloud Storage Integration · Model Training
 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/PunleuTY/JomNam_Khmer_Text_Annotation)
+
+---
+
 ## 🔥 GitHub Streak
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=leangchhay1523&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/PunleuTY/JomNam_Khmer_Text_Annotation)
 
 ---
 
